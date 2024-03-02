@@ -1,10 +1,10 @@
 {
-  "name": "react-select",
-  "version": "5.8.0",
+  "name": "@julusian/react-select",
+  "version": "5.8.1-0",
   "description": "A Select control built with and for ReactJS",
-  "main": "dist/react-select.cjs.js",
-  "module": "dist/react-select.esm.js",
-  "types": "dist/react-select.cjs.d.ts",
+  "main": "dist/julusian-react-select.cjs.js",
+  "module": "dist/julusian-react-select.esm.js",
+  "types": "dist/julusian-react-select.cjs.d.ts",
   "sideEffects": false,
   "author": "Jed Watson",
   "license": "MIT",
@@ -62,34 +62,34 @@
   },
   "exports": {
     ".": {
-      "module": "./dist/react-select.esm.js",
-      "import": "./dist/react-select.cjs.mjs",
-      "default": "./dist/react-select.cjs.js"
+      "module": "./dist/julusian-react-select.esm.js",
+      "import": "./dist/julusian-react-select.cjs.mjs",
+      "default": "./dist/julusian-react-select.cjs.js"
     },
     "./base": {
-      "module": "./base/dist/react-select-base.esm.js",
-      "import": "./base/dist/react-select-base.cjs.mjs",
-      "default": "./base/dist/react-select-base.cjs.js"
+      "module": "./base/dist/julusian-react-select-base.esm.js",
+      "import": "./base/dist/julusian-react-select-base.cjs.mjs",
+      "default": "./base/dist/julusian-react-select-base.cjs.js"
     },
     "./async": {
-      "module": "./async/dist/react-select-async.esm.js",
-      "import": "./async/dist/react-select-async.cjs.mjs",
-      "default": "./async/dist/react-select-async.cjs.js"
+      "module": "./async/dist/julusian-react-select-async.esm.js",
+      "import": "./async/dist/julusian-react-select-async.cjs.mjs",
+      "default": "./async/dist/julusian-react-select-async.cjs.js"
     },
     "./animated": {
-      "module": "./animated/dist/react-select-animated.esm.js",
-      "import": "./animated/dist/react-select-animated.cjs.mjs",
-      "default": "./animated/dist/react-select-animated.cjs.js"
+      "module": "./animated/dist/julusian-react-select-animated.esm.js",
+      "import": "./animated/dist/julusian-react-select-animated.cjs.mjs",
+      "default": "./animated/dist/julusian-react-select-animated.cjs.js"
     },
     "./creatable": {
-      "module": "./creatable/dist/react-select-creatable.esm.js",
-      "import": "./creatable/dist/react-select-creatable.cjs.mjs",
-      "default": "./creatable/dist/react-select-creatable.cjs.js"
+      "module": "./creatable/dist/julusian-react-select-creatable.esm.js",
+      "import": "./creatable/dist/julusian-react-select-creatable.cjs.mjs",
+      "default": "./creatable/dist/julusian-react-select-creatable.cjs.js"
     },
     "./async-creatable": {
-      "module": "./async-creatable/dist/react-select-async-creatable.esm.js",
-      "import": "./async-creatable/dist/react-select-async-creatable.cjs.mjs",
-      "default": "./async-creatable/dist/react-select-async-creatable.cjs.js"
+      "module": "./async-creatable/dist/julusian-react-select-async-creatable.esm.js",
+      "import": "./async-creatable/dist/julusian-react-select-async-creatable.cjs.mjs",
+      "default": "./async-creatable/dist/julusian-react-select-async-creatable.cjs.js"
     },
     "./package.json": "./package.json"
   }

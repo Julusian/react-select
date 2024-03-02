@@ -1,5 +1,5 @@
 {
-  "main": "dist/react-select-base.cjs.js",
-  "module": "dist/react-select-base.esm.js",
-  "types": "dist/react-select-base.cjs.d.ts"
+  "main": "dist/julusian-react-select-base.cjs.js",
+  "module": "dist/julusian-react-select-base.esm.js",
+  "types": "dist/julusian-react-select-base.cjs.d.ts"
 }
