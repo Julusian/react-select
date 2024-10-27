@@ -1,6 +1,6 @@
 {
   "name": "@julusian/react-select",
-  "version": "5.8.1-1",
+  "version": "5.8.1-2",
   "description": "A Select control built with and for ReactJS",
   "main": "dist/julusian-react-select.cjs.js",
   "module": "dist/julusian-react-select.esm.js",
