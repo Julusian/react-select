@@ -1659,7 +1659,6 @@ export default class Select<
         this.selectOption(focusedOption);
         break;
       case 'ArrowUp':
-        console.log('up', menuIsOpen);
         if (menuIsOpen) {
           this.focusOption('up');
         } else if (!openMenuOnArrows) {
